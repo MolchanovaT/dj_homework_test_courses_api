@@ -1,0 +1,7 @@
+django
+djangorestframework
+django-filter
+psycopg2-binary
+pytest
+pytest-django
+model_bakery
